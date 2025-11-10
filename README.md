@@ -1,4 +1,4 @@
-### Data Science with Python
+## Data Science with Python
 This IBM course on Data Science with Python covers the application of Python programming in the following areas:
 
 1.Data Analysis with Python
